@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" alt="Git" width="90" height="90"/>
 </div>
 
 

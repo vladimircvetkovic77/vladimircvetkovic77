@@ -22,5 +22,5 @@
    <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="ANT Design" alt="ANT Design" width="60" height="60"/>&nbsp;
  
   <br>
-  <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title="Git" alt="Git" width="140" height="60"/>
+  <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" title="Git" alt="Git" width="140" height="60"/>
 </div>

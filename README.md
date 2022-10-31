@@ -24,6 +24,3 @@
   <br>
   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title="Git" alt="Git" width="140" height="60"/>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladimircvetkovic77&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-

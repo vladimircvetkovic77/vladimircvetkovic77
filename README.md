@@ -1,6 +1,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="left">
+<div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="PHP Laravel" alt="Laravel" width="60" height="60"/>&nbsp;
   <br>
